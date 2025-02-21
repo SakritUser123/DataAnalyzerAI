@@ -106,6 +106,8 @@ if selected_tab == 'Cancer Detection':
     import numpy as np
     from PIL import Image
     import os
+    import h5py
+
 
     model = tf.keras.models.load_model('cal.h5')
     st.write("Model loaded successfully!")
