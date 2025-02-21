@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+opencv-python-headless
+h5py
+requests
+opendatasets
+scikit-learn
+kagglehub
